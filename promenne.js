@@ -8,4 +8,9 @@ let snezi= false;
 
 let jmeno = 'Veronika'
 let prijmeni = 'Petrova'
+let vek = '99'
+let vaha= '50'
+let vyska= '150'
+
+console.log(vaha/1,5**2)
 console.log(jmeno+ ' '+prijmeni)
