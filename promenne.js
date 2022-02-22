@@ -5,3 +5,7 @@ console.log('42')
 
 let prsi= true; 
 let snezi= false; 
+
+let jmeno = 'Veronika'
+let prijmeni = 'Petrova'
+console.log(jmeno+ ' '+prijmeni)
