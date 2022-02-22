@@ -8,9 +8,9 @@ let snezi= false;
 
 let jmeno = 'Veronika'
 let prijmeni = 'Petrova'
-let vek = '99'
-let vaha= '50'
-let vyska= '150'
+let vek = 99
+let vaha= 50
+let vyska= 150
 
-console.log('vaha/1,5**2');
+console.log(vaha/1,5**2);
 console.log('jmenuji se' jmeno+ ' '+prijmeni',je mi' vek 'let,vážím' vaha 'kg, měřím ' vyska 'cm a moje BMI je nějaký nesmysl');
