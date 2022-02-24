@@ -1,4 +1,5 @@
-funktion srnp(x,y); {
+funktion srnp(x,y); 
+{
 
   let soucet = x+y;
   let rozdil = x-y; 
@@ -9,11 +10,11 @@ funktion srnp(x,y); {
   console.log('rozdil:' +x'-'+y'='+soucet);
   console.log('soucin:' +x'*'+y'='+soucet);
   console.log('podil:' +x'/'+y'='+soucet);
-}
+};
 
 
 
-let x= Number(prompt('zadej X'))
-let x= Number(prompt('zadej y'))
+let x= Number(prompt('zadej X'));
+let x= Number(prompt('zadej y'));
 
 srnp (x,y)
