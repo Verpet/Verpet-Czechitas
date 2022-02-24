@@ -2,4 +2,5 @@
 
 
 import './funkce.js'
+import'./pole.js'
 
