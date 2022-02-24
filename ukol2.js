@@ -1,4 +1,4 @@
-let cislo = Number (prompt ( 'zadej odlišné číslo odlišné od nuly))
+let cislo = Number (prompt ( 'zadej odlišné číslo odlišné od nuly'))
 
 
 while(cislo ===0){
